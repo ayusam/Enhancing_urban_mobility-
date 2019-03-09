@@ -18,3 +18,5 @@ A ride-share match: a match between a rider and a driver in which the  driver tr
 
 A transit match: a match between a rider and a driver in which the driver  transports the rider to a transit station. Subsequently, the
 driver drives to  his destination while the rider takes public transit to reach his final  destination.
+
+For more details please refer to readme.pdf file.
